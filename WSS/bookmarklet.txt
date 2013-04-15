@@ -1,0 +1,1 @@
+javascript:var el = document.createElement("link"); el.rel="stylesheet"; el.type="text/css"; el.media="print"; el.href="https://raw.github.com/dfirebs1234/random/master/WSS/print.css"; document.head.appendChild(el);void(0);
