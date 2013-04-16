@@ -1,1 +1,1 @@
-javascript:var el = document.createElement("script"); el.src="https://raw.github.com/dfirebs1234/random/master/WSS/fix.css"; el.type="text/javascript"; document.head.appendChild(el);void(0);
+javascript:var el = document.createElement("script"); el.src="https://raw.github.com/dfirebs1234/random/master/WSS/fix.js"; el.type="text/javascript"; document.head.appendChild(el);void(0);
